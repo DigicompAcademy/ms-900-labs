@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '05 - Entra M365 Dynamische Gruppe'   
+    title: '06 - Entra M365 Dynamische Gruppe'   
     module: '01 - Grundlagen'
 ---
 
