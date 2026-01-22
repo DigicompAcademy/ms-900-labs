@@ -1,7 +1,7 @@
 ---
 wts:
-    title: '01 - MFA Setup (10 min)'   
-    module: '00 - Core'
+    title: '01 - MFA Setup'   
+    module: '00 - Vorbereitung'
 ---
 
 
