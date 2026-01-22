@@ -1,3 +1,11 @@
+---
+wts:
+    title: '01 - Release-Einstellungen anpassen (10 min)'   
+    module: '01 - Core'
+---
+
+
+
 # Schritt-für-Schritt-Anleitung: Release-Einstellungen in Microsoft 365 ändern
 
 ## 1. Voraussetzungen
