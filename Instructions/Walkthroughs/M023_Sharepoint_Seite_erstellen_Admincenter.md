@@ -1,3 +1,10 @@
+---
+wts:
+    title: '10 - Sharepointwebseite Admincenter'   
+    module: '02 - Erkunden'
+---
+
+
 ## Anleitung: SharePoint-Seite im SharePoint Admin Center erstellen
 
 ### ✅ Schritt 1: Anmelden
