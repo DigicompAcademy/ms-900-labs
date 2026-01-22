@@ -1,3 +1,10 @@
+---
+wts:
+    title: '09 - MS Teams erstellen'   
+    module: '02 - Erkunden'
+---
+
+
 # Schritt-für-Schritt-Anleitung: Microsoft Teams-Team erstellen und Besprechung starten
 
 ## ✅ Teil 1: Neues Team im Teams-Client erstellen
