@@ -1,3 +1,10 @@
+---
+wts:
+    title: '05 - Entra M365 Gruppe'   
+    module: '01 - Grundlagen'
+---
+
+
 ## Anleitung: Erstellen einer Microsoft 365 Gruppe in Microsoft Entra
 
 ### ✅ Schritt 1: Anmelden
