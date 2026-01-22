@@ -1,7 +1,7 @@
 ---
 wts:
     title: '02 - Benutzer erstellen'
-    module: '01 - Grundlagen'
+    module: '02 - Erkunden'
 ---
 
 # Schritt-für-Schritt-Anleitung: Benutzer im Microsoft 365 Admin Center erstellen
