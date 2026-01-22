@@ -1,4 +1,4 @@
----
+# ---
 wts:
     title: '01 - Demo M365 Fundamentals (10 min)'   
     module: '01 - Core'
