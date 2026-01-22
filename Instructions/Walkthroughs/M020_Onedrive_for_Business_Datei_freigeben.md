@@ -1,7 +1,7 @@
 ---
 wts:
     title: '07 - OneDrive for Business'   
-    module: '01 - Grundlagen'
+    module: '02 - Erkunden'
 ---
 
 
