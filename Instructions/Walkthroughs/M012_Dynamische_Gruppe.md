@@ -1,7 +1,7 @@
 ---
 wts:
     title: '06 - Entra M365 Dynamische Gruppe'   
-    module: '01 - Grundlagen'
+    module: '02 - Erkunden'
 ---
 
 
