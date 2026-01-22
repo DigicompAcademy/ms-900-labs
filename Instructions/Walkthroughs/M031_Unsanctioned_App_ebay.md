@@ -1,3 +1,10 @@
+---
+wts:
+    title: '12 - Defender Cloud Apps'   
+    module: '02 - Erkunden'
+---
+
+
 # Schritt-für-Schritt-Anleitung: eBay als unsanctioned im App-Katalog markieren
 
 ## 1. Voraussetzungen
