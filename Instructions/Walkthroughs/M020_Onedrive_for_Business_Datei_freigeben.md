@@ -1,3 +1,10 @@
+---
+wts:
+    title: '07 - OneDrive for Business'   
+    module: '01 - Grundlagen'
+---
+
+
 ## Anleitung: Datei über OneDrive for Business Web freigeben
 
 ### ✅ Schritt 1: Anmelden
