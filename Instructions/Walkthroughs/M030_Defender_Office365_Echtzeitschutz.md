@@ -1,3 +1,10 @@
+---
+wts:
+    title: '11 - Defender'   
+    module: '02 - Erkunden'
+---
+
+
 # Schritt-für-Schritt-Anleitung: Microsoft Defender for Office 365 – Echtzeitschutz vor schädlichen Links und QR-Codes
 
 ## ✅ 1. Anmeldung im Microsoft 365 Security & Compliance Center
