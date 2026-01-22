@@ -1,3 +1,10 @@
+---
+wts:
+    title: '05 - Entra M365 Dynamische Gruppe'   
+    module: '01 - Grundlagen'
+---
+
+
 # Schritt-für-Schritt-Anleitung: Dynamische Microsoft 365 Gruppe in Entra erstellen (basierend auf Abteilungsattribut)
 
 ## Voraussetzungen
