@@ -1,7 +1,7 @@
 ---
 wts:
     title: '02 - Release-Einstellungen anpassen'   
-    module: '01 - Grundlagen'
+    module: '02 - Erkunden'
 ---
 
 
