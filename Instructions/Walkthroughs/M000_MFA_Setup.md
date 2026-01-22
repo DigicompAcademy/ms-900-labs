@@ -1,3 +1,11 @@
+---
+wts:
+    title: '01 - Demo M365 Fundamentals (10 min)'   
+    module: '01 - Core'
+---
+
+
+
 # Schritt-für-Schritt-Anleitung: MFA-Setup für Benutzer 
 
 ## Schritt 1: Anmeldung auf aka.ms/mfasetup
