@@ -1,7 +1,7 @@
 ---
 wts:
     title: '12 - Defender Cloud Apps'   
-    module: '02 - Erkunden'
+    module: '03 - Sicherheit'
 ---
 
 
