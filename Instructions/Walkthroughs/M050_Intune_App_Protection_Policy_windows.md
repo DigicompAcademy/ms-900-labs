@@ -1,3 +1,10 @@
+---
+wts:
+    title: '14 - Intune Apps schützen'   
+    module: '03 - Sicherheit'
+---
+
+
 # Schritt-für-Schritt-Anleitung: App Protection Policy für Windows im Intune Admin Center erstellen
 
 ## ✅ 1. Anmeldung im Microsoft Intune Admin Center
