@@ -1,7 +1,7 @@
 ---
 wts:
     title: '04 - M365 Admincenter'   
-    module: '01 - Grundlagen'
+    module: '02 - Erkunden'
 ---
 
 
