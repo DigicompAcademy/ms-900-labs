@@ -1,3 +1,9 @@
+---
+wts:
+    title: '07 - SharePoint Teamwebseite erstellen'   
+    module: '02 - Erkunden'
+---
+
 # Schritt-für-Schritt-Anleitung: SharePoint Teamwebsite erstellen
 
 ## ✅ 1. Anmelden
