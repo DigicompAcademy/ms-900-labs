@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '01 - Release-Einstellungen anpassen (10 min)'   
+    title: '01 - Release-Einstellungen anpassen'   
     module: '01 - Grundlagen'
 ---
 
