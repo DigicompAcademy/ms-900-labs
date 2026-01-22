@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '01 - Demo M365 Fundamentals (10 min)'   
+    title: '01 - MFA Setup (10 min)'   
     module: '01 - Core'
 ---
 
