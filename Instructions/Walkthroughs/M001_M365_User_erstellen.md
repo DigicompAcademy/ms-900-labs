@@ -1,3 +1,10 @@
+
+---
+wts:
+    title: '02 - Benutzer erstellen (10 min)'   
+    module: '01 - Core'
+---
+
 # Schritt-für-Schritt-Anleitung: Benutzer im Microsoft 365 Admin Center erstellen
 
 ## Schritt 1: Anmeldung
