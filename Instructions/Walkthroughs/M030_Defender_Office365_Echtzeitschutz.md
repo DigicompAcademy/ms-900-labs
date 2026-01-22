@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '11 - Defender'   
+    title: '11 - Defender Safe Link'   
     module: '02 - Erkunden'
 ---
 
