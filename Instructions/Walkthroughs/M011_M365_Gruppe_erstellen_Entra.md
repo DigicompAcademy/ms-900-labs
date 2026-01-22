@@ -1,7 +1,7 @@
 ---
 wts:
     title: '05 - Entra M365 Gruppe'   
-    module: '01 - Grundlagen'
+    module: '02 - Erkunden'
 ---
 
 
