@@ -1,6 +1,6 @@
 ---
 wts:
-    title: '07 - SharePoint Teamwebseite erstellen'   
+    title: '08 - SharePoint Teamwebseite erstellen'   
     module: '02 - Erkunden'
 ---
 
